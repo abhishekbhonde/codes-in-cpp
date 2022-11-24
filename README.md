@@ -9,8 +9,8 @@ All code that i have solved on various platforms of cpp.
  - [codechef](https://www.codechef.com/users/abhishek_765)
  
 
-| Problem NO   |  Name of the Problen        | Difficulty Level |  Solution         |               |
-|              |                             |                  |                   |               | 
-|              |                                 
-|              |                             |                  |                   |               | 
-|              |                             |                  |                   |               | 
+|Problem No   | Name of the Problem  | Difficulty Level  |  Solution |   
+|---|---|---|---|
+| 1  |Two Sum   |  Nedium | Here  |   
+|   |   |   |   |  
+|   |   |   |   |   
